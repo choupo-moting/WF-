@@ -15,7 +15,7 @@ constantly==15.1.0
 cryptography==2.7
 cssselect==1.1.0
 defusedxml==0.6.0
-Django==2.2.5
+Django==2.2.10
 django-cors-headers==3.1.0
 dnspython==1.16.0
 docopt==0.6.2
