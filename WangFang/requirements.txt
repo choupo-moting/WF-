@@ -17,7 +17,7 @@ cssselect==1.1.0
 defusedxml==0.6.0
 dnspython==1.16.0
 docopt==0.6.2
-eventlet==0.25.1
+eventlet==0.31.0
 Flask==1.0.3
 Flask-Login==0.4.1
 Flask-Migrate==2.5.2
