@@ -25,7 +25,7 @@ Flask-Script==2.0.6
 Flask-Session==0.3.1
 Flask-SQLAlchemy==2.4.0
 Flask-WTF==0.14.2
-gerapy==0.8.5
+gerapy==0.9.9
 gevent==1.4.0
 greenlet==0.4.15
 hyperlink==19.0.0
